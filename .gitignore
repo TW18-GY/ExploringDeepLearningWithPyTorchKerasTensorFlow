@@ -1,2 +1,6 @@
 .vscode/settings.json
 /data
+yolov3.cfg
+coco.names
+source.jpg
+yolov3.weights
